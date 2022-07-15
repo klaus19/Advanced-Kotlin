@@ -21,5 +21,5 @@ fun main(){
 
 
     println(factorial(5))
-   println(factorialTR(5))
+    println(factorialTR(5))
 }
